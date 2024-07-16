@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yogesh Aggarwal</h1>
 <h3 align="center">A passionate Software and Android Developer from India</h3>
 
-<img alighn = "right" alt = "coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif/">
+<img alighn = "right" alt = "coding" width="800" src="https://www.lambdatest.com/resources/images/news24.gif/">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogesh19aggarwal&label=Profile%20views&color=0e75b6&style=flat" alt="yogesh19aggarwal" /> </p>
 
