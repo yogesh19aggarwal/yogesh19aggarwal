@@ -3,6 +3,7 @@
 <h3 align="center">A passionate Software and Android Developer from India</h3>
 
 <img align = "right" alt = "coding" width="850" src="https://www.lambdatest.com/resources/images/news24.gif/">
+<img align = "right" alt = "coding" width="=400" src="[https://www.lambdatest.com/resources/images/news24.gif/](https://www.lambdatest.com/resources/images/news24.gif/)">
 
 - 🌱 I’m currently learning **Python djiango**
 
