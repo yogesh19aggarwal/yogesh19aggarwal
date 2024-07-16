@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Yogesh Aggarwal</h1>
 <h3 align="center">A passionate Software and Android Developer from India</h3>
 
-<img align = "right" alt = "coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif/">
+<img alt = "coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif/">
 
 - 🌱 I’m currently learning **Python djiango**
 
