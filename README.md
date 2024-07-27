@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Yogesh Aggarwal</h1>
 <h3 align="center">A passionate Software and Android Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yogesh19aggarwal&label=Profile%20views&color=0e75b6&style=flat" alt="yogesh19aggarwal" /> </p>
-
 <img align = "right" alt = "coding" width="400" src="https://raw.githubusercontent.com/swapnalshahil/swapnalshahil/master/gifs/coder.gif">
 
 - 🌱 I’m currently learning **Python djiango**
@@ -68,3 +66,6 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogesh19aggarwal&show_icons=true&locale=en&layout=compact" alt="yogesh19aggarwal" /></p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yogesh19aggarwal&label=Profile%20views&color=0e75b6&style=flat" alt="yogesh19aggarwal" /> </p>
