@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **NodeJs**
 
-- 💬 Ask me about **ReactJS, Kotlin, C++, Data Structure**
+- 💬 Ask me about **ReactJS, React-Native, C++, Data Structure**
 
 - 📫 How to reach me **yogesh.19.aggarwal@gmail.com**
 
