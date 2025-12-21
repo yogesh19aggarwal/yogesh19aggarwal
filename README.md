@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **yogesh.19.aggarwal@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1D_MtvMv3KbZkiaB-Vx_QzBPSE88RqJ4q/view?usp=sharing](https://drive.google.com/file/d/1D_MtvMv3KbZkiaB-Vx_QzBPSE88RqJ4q/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1M91UEzvHwOy4185FOzKOAOWz0iGoT3_O/view?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
